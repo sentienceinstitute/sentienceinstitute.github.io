@@ -1,0 +1,22 @@
+{% extends "layout.njk" %}
+{% block metatags %}
+{{ metatagsrender("", "Sentience Institute", "header_photos/home_image_darkened", "Sentience Institute is a think tank dedicated to researching how to most effectively expand humanity’s moral circle.") }}
+{% endblock %}
+
+{% block content %}
+<div class="container home-image-container" img-id="home_image" style="background-image: url(../img/header_photos/home_image_darkened.png);">
+  {#<div class="home-image-container home-image-overlay" style="background-image: url(../img/header_photos/home_image_darkened.png);"></div>#}
+  <div class="home-image-text">Expanding humanity's moral circle</div>
+  {% from "../templates/partials/imagecredit.njk" import imagecredit %}
+  {{ imagecredit(photos["home_image"]) }}
+</div>
+
+<div class="container first-container home-mission-container">
+  <p>
+    Sentience Institute is a new think tank researching the most effective strategies to expand humanity’s moral circle. We make our research results public and free, so anyone can use them to make more impactful decisions with their advocacy, careers, donations, and other resources.
+  </p>
+  <span>
+    We're just getting started, and we need your support to help us hit the ground running! Please subscribe to our newsletter below and consider making a donation.
+  </span>
+</div>
+{% endblock %}

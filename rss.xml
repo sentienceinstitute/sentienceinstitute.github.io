@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-
 <channel>
   <atom:link href="http://sentienceinstitute.org/rss.xml" rel="self" type="application/rss+xml" />
   <title>Sentience Institute</title>
@@ -28,7 +27,43 @@
     <pubDate>Fri, 2 Jun 2017 09:00:00 EST</pubDate>
     <description>We’re excited to announce the launch of Sentience Institute (SI), a new think tank dedicated to the expansion of humanity’s moral circle...</description>
   </item>
-
 </channel>
+</rss> -->
 
-</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Sentience Institute</title>
+  <link href="http://sentienceinstitute.org/"/>
+  <updated>2017-06-16T13:49:47+00:00</updated>
+  <author>
+    <name>Sentience Institute</name>
+  </author>
+  <subtitle>Expanding humanity's moral circle</subtitle>
+
+  <entry>
+    <title>Effective Animal Advocacy Researcher Survey June 2017</title>
+    <link>http://sentienceinstitute.org/blog/eaa-researcher-survey-june-2017</link>
+    <id>http://sentienceinstitute.org/blog/eaa-researcher-survey-june-2017</id>
+    <updated>2017-06-16T13:49:47+00:00</updated>
+    <summary>We conducted a brief survey of the people who we believe have most thoroughly considered these issues, asking their opinions on the debates currently listed on our summary page...</summary>
+    <author>Jacy Reese</author>
+  </entry>
+  <entry>
+    <title>A Note on Speculation and Intuition as Evidence</title>
+    <link>http://sentienceinstitute.org/blog/speculation-and-intuition-as-evidence</link>
+    <id>http://sentienceinstitute.org/blog/speculation-and-intuition-as-evidence</id>
+    <updated>2017-06-02T13:49:47+00:00</updated>
+    <summary>Sometimes critics in EAA discussions assert that if a piece of evidence is weak, it counts for nothing or the conclusion it points to is wrong...</summary>
+    <author>Jacy Reese</author>
+  </entry>
+  <entry>
+    <title>Introducing Sentience Institute</title>
+    <link>http://sentienceinstitute.org/blog/introducing-sentience-institute</link>
+    <id>http://sentienceinstitute.org/blog/introducing-sentience-institute</id>
+    <updated>2017-06-02T13:49:47+00:00</updated>
+    <summary>We’re excited to announce the launch of Sentience Institute (SI), a new think tank dedicated to the expansion of humanity’s moral circle...</summary>
+    <author>Kelly Witwicki &amp; Jacy Reese</author>
+  </entry>
+
+</feed>

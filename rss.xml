@@ -2,7 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Sentience Institute</title>
-  <link href="http://sentienceinstitute.org/"/>
+  <id>http://sentienceinstitute.org/</id>
+  <link rel="self" href="/rss.xml"/>
   <updated>2017-06-16T13:49:47+00:00</updated>
   <author>
     <name>Sentience Institute</name>

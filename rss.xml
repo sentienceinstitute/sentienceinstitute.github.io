@@ -3,7 +3,7 @@
 
   <title>Sentience Institute</title>
   <id>http://sentienceinstitute.org/</id>
-  <link rel="self" href="/rss.xml"/>
+  <link rel="self" href="http://sentienceinstitute.org/rss.xml"/>
   <updated>2017-06-16T13:49:47+00:00</updated>
   <author>
     <name>Sentience Institute</name>

@@ -6,6 +6,14 @@
   <title>Sentience Institute</title>
   <link>http://www.sentienceinstitute.org/</link>
   <description>Expanding humanity's moral circle</description>
+
+  <item>
+    <title>Effective Animal Advocacy Researcher Survey 2017</title>
+    <link>http://sentienceinstitute.org/blog/eaa-researcher-survey-june-2017</link>
+    <guid isPermaLink="true">http://sentienceinstitute.org/blog/eaa-researcher-survey-june-2017</guid>
+    <pubDate>Fri, 16 Jun 2017 09:00:00 EST</pubDate>
+    <description>We conducted a brief survey of the people who we believe have most thoroughly considered these issues, asking their opinions on the debates currently listed on our summary page...</description>
+  </item>
   <item>
     <title>A Note on Speculation and Intuition as Evidence</title>
     <link>http://sentienceinstitute.org/blog/speculation-and-intuition-as-evidence</link>
@@ -20,6 +28,7 @@
     <pubDate>Fri, 2 Jun 2017 09:00:00 EST</pubDate>
     <description>We’re excited to announce the launch of Sentience Institute (SI), a new think tank dedicated to the expansion of humanity’s moral circle...</description>
   </item>
+
 </channel>
 
 </rss>
